@@ -131,9 +131,6 @@ public class Urnotdave {
 		System.out.println("-------------");
 		TimeUnit.SECONDS.sleep(1);
 		System.out.println("End.");
-
-
-	
-	
+		in.close();
 	}
 }
